@@ -1,5 +1,5 @@
 <template>
-    <h1><{{ username }}'s Shopping Cart</h1>
+    <h1>{{ username }}'s Shopping Cart</h1>
 
 </template>
 
